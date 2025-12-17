@@ -1,5 +1,4 @@
 # Video
 
-1. **Video hướng dẫn chi tiết:** [Xem trên YouTube](https://www.youtube.com/watch?v=ABCDEFG)
-2. **Tài liệu thiết kế:** [Đọc Google Docs](https://docs.google.com/document/d/XYZ123)
-3. **Trang chủ dự án:** [Truy cập Website](https://example.com/)
+1. **Link video daytime-40s:** [Google Drive](https://drive.google.com/file/d/1exbccb3BtecDi_0fBgmIOhOedUO3Kt4E/view?usp=sharing)
+2. **Link video nighttime-40s:** [Google Drive](https://drive.google.com/file/d/1oz24f7wiU_De_Ysp9yUfsNAcWK_TBY9Y/view?usp=sharing)
